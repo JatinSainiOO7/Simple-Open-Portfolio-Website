@@ -1,21 +1,3 @@
-<style>
-.button {
-  display: inline-block;
-  padding: 9px 27px;
-  background-color: #0074d9; /* Change to your desired color */
-  color: #fff;
-  text-decoration: none;
-  border-radius: 5px;
-  transition: 0.3s;
-}
-
-.button:hover {
-  padding: 2% 5%;
-}
-</style>
-----
-[comment]: <> (Upper code)
-
 
 # Hey! CONTRIBUTORS add your features here
 ***
