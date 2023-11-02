@@ -1,7 +1,47 @@
+<style>
+.button {
+  display: inline-block;
+  padding: 9px 27px;
+  background-color: #0074d9; /* Change to your desired color */
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.button:hover {
+  padding: 2% 5%;
+}
+</style>
+----
+[comment]: <> (Upper code)
+
 
 # Hey! CONTRIBUTORS add your features here
 ***
-Only add your code or info, please don't change code another one,
-# 1. NAME
-## Title:
-### ''Description''
+
+[comment]: <> (Only add your code or info, please don't change code another one,)
+
+>## Name: [Jatin Saini](https://github.com/JatinSainiOO7)
+>## Title: About Page
+>## Discription: An "About" page on a portfolio website is a critical component that provides visitors with information about the individual or organization behind the portfolio. It serves several important purposes
+>## <a href="https://squareme.si/en/" class="button">Visit</a>
+
+[comment]: <> (Copy upper Code and change or replace information about you.
+ all info are compulsory don't copy style code)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
