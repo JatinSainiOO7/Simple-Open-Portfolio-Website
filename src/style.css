@@ -1,0 +1,156 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 5%;
+  font-family: "Poppins", sans-serif;
+  background-image: linear-gradient(
+    145deg,
+    rgba(0, 119, 255, 0.685) 0%,
+    rgba(140, 0, 255, 0.753) 70%
+  );
+  box-sizing: border-box;
+}
+
+h6{
+  color: #3b3b3bd3;
+  font-size: x-large;
+  font-weight: 900;
+}
+
+.wellcome-window {
+  width: inherit;
+  height: 49vw;
+  padding: 5%;
+  display: flex;
+  gap: 10%;
+}
+
+.left-sec-win {
+  padding-top: 4%;
+  width: 50%;
+  height: inherit;
+}
+
+.right-sec-win {
+  width: 100%;
+  height: 100%;
+  max-height: 45vw;
+}
+
+.name {
+  color: white;
+  font-size: 5vw;
+}
+
+.image {
+  color: white;
+  width: 30vw;
+  height: 35vw;
+  border-radius: 20px;
+  background-color: rgb(85, 85, 85);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../public/main\ paras11.png);
+  box-shadow: rgb(94, 255, 0) 0px 0px 100px -20px,
+    rgb(0, 255, 21) 0px 20px 60px -30px, rgba(0, 0, 0, 1) 0px -3px 6px 0px inset;
+}
+
+.about {
+  min-width: 25vw;
+  height: fit-content;
+  display: flex;
+}
+
+.about-left {
+  padding-top: 6%;
+  width: 35%;
+  padding-bottom: 3rem;
+}
+
+ul,
+li,
+a {
+  list-style-type: none;
+  text-decoration: none;
+  text-decoration-line: none;
+}
+
+.button {
+  padding: 1vw 4vw 1vw;
+  font-size: xx-large;
+  border: #ffffff solid 1px;
+}
+
+.button:visited {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: normal;
+  text-shadow: 1px 1px 1px #33ff00;
+}
+
+.button:active {
+  text-decoration: none;
+  color: #000000;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.button:hover {
+  border: #ffffff solid;
+  box-shadow: 0 0px 22px 5px #ffffff;
+  text-decoration: none;
+  color: #ffffff;
+  box-shadow: 0 0px 22px 4px #ffffff;
+  text-shadow: 1px 1px 1px #5c5c5c;
+  transition: 277ms;
+}
+
+.about-left ul li {
+  padding: 9%;
+}
+
+.about-display {
+  width: 65%;
+  background-color: #ffffff;
+  border: #d9d9d9 solid 2px;
+  border-radius: 1rem;
+  box-shadow: 0 0px 62px -20px rgb(0, 0, 0);
+}
+
+.header-part {
+  min-width: 90%;
+  height: fit-content;
+  background-color: #d0d0d0;
+  border-radius: 0.8rem;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  box-shadow: 0px 13px 10px -13px #000000;
+}
+
+.left-section {
+  padding: 1%;
+  display: flex;
+  justify-content: left;
+  gap: 10px;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50rem;
+  background-color: #00c3ff;
+}
+
+.red {
+  background-color: rgba(255, 0, 0, 0.768);
+}
+
+.yellow {
+  background-color: rgba(255, 255, 0, 0.601);
+}
+
+.green {
+  background: rgba(0, 128, 0, 0.804);
+}
